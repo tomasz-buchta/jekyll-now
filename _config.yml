@@ -3,22 +3,19 @@
 #
 
 # Name of your site (displayed in the header)
-name: Tomasz Buchta
+name: Wombat log
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Tomasz Buchta. Pragmatic Web Developer, tinkerer. Interested in Ruby,Rails and elixir
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: https://avatars0.githubusercontent.com/u/7154203?s=140&v=4
 #
 # Flags below are optional
 #
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
+  email: tomasz.buchta@hotmail.com
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -29,7 +26,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://tomasz-buchta.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
